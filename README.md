@@ -1,5 +1,5 @@
 # EX01 Developing a Simple Webserver
-## Date:
+## Date:24.03.2025
 
 ## AIM:
 To develop a simple webserver to serve html pages and display the list of protocols in TCP/IP Protocol Suite.
@@ -97,8 +97,10 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
+<img width="868" alt="terminal code" src="https://github.com/user-attachments/assets/bae8eb4a-b709-4f8c-a2ef-b1148fa3649a" />
+<img width="950" alt="web output" src="https://github.com/user-attachments/assets/bacc20ec-a9ce-4189-b81a-6bba8cce8628" />
 
-![alt text](<web output-1.png>)
-![alt text](<terminal code.png>)
+
+
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
